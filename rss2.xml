@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>일단 적어</title>
+    <link>https://geneaky.github.io/</link>
+    
+    <atom:link href="https://geneaky.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 10 Dec 2022 09:07:15 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>tdtd</title>
+      <link>https://geneaky.github.io/2022/12/09/tdtd/</link>
+      <guid>https://geneaky.github.io/2022/12/09/tdtd/</guid>
+      <pubDate>Fri, 09 Dec 2022 06:49:33 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;dfdfdfd&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>dfdfdfd</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://geneaky.github.io/2022/12/09/tdtd/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>ttt</title>
+      <link>https://geneaky.github.io/2022/12/09/ttt/</link>
+      <guid>https://geneaky.github.io/2022/12/09/ttt/</guid>
+      <pubDate>Fri, 09 Dec 2022 06:48:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;dfdfdf&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>dfdfdf</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://geneaky.github.io/2022/12/09/ttt/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>https://geneaky.github.io/2022/12/06/test-post/</link>
+      <guid>https://geneaky.github.io/2022/12/06/test-post/</guid>
+      <pubDate>Tue, 06 Dec 2022 08:53:11 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;hi&lt;/p&gt;
+&lt;h1 id=&quot;jo&quot;&gt;&lt;a href=&quot;#jo&quot; class=&quot;headerlink&quot; title=&quot;jo&quot;&gt;&lt;/a&gt;jo&lt;/h1&gt;&lt;p&gt;dsfsdf&lt;/p&gt;
+&lt;h1 id=&quot;kz&quot;&gt;&lt;a href=&quot;#kz&quot; class=&quot;headerlink&quot; titl</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>hi</p><h1 id="jo"><a href="#jo" class="headerlink" title="jo"></a>jo</h1><p>dsfsdf</p><h1 id="kz"><a href="#kz" class="headerlink" title="kz"></a>kz</h1><p>sdfa</p><h1 id="asdfsdf"><a href="#asdfsdf" class="headerlink" title="asdfsdf"></a>asdfsdf</h1><p>dddd</p>]]></content:encoded>
+      
+      
+      <category domain="https://geneaky.github.io/categories/test1/">test1</category>
+      
+      <category domain="https://geneaky.github.io/categories/test1/test2/">test2</category>
+      
+      
+      <category domain="https://geneaky.github.io/tags/test-tag/">test tag</category>
+      
+      
+      <comments>https://geneaky.github.io/2022/12/06/test-post/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
